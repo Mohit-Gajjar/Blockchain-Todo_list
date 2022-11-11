@@ -1,0 +1,4 @@
+#Thu Nov 03 11:33:52 IST 2022
+base.0=F\:\\College\\SGP\\GroupProject\\todoChain\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
